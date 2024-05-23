@@ -1,5 +1,5 @@
 # Convolutional block implementations and other utilities
-# Author: Samuel Fanči (@nexuso1)
+# Author: nexuso1
 
 import keras
 import torch

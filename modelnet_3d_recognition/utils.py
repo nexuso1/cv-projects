@@ -1,3 +1,4 @@
+# Convolutional block implementations and other utilities
 # Author: nexuso1
 
 import keras
