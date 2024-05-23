@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Simple model evaluation / ensembling script
 # Author: nexuso1
 
 import argparse
