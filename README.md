@@ -1,12 +1,12 @@
 # Computer vision projects
 
 This repository includes various CV projects that I've completed, now it consists of various competition models I have worked on.
+Models are implemented in Keras, using PyTorch backend and various transformations from torchvision/keras_cv.
 
 ## Folders
 ### CAGS_segmentation_and_classification
   - Image classfication and segmentation models for the CAGS (Cats and dogs) dataset (examples) `https://ufal.mff.cuni.cz/~straka/courses/npfl138/2324/demos/cags_train.html`
   -  Preprocessing done akin to RandAugmnent on both tasks
-  -  Using Keras
   - Classification
     - Classification of color images into 34 classes
     - Uses an EfficientV2 as a base model and a classification head on top
